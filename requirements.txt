@@ -1,0 +1,2 @@
+vosk==0.3.45
+customtkinter>=5.2,<6

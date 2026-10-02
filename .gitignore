@@ -1,0 +1,35 @@
+﻿# Python environments
+venv/
+greek-test-venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller/build output
+build/
+dist/
+*.spec
+
+# Downloaded speech models
+models/
+
+# Generated media and transcripts
+ClipForge_Output/
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.wav
+*.srt
+
+# Local backups and test scripts
+*_backup.py
+test_*.py
+
+# Specific generated test text files
+greek-clean-test.wav2vec2-greek.txt
+*.wav2vec2-greek.txt
